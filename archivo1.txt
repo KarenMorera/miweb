@@ -3,7 +3,4 @@ Chanchito Feliz
 Changes from web
 Changes from the VS
 Another change
-
-
-
-Changes from the web
+Changes from the VS 3
